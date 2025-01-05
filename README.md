@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning advanced Android Jetpack libraries and improving problem-solving skills on LeetCode.
 - 💬 Ask me about **Android development, Firebase, Flutter, Kotlin, DSA, and cloud platforms**.
-- 📫 Reach me at: [aadarshsingh@example.com](mailto:aadarshsingh@example.com)
+- 📫 Reach me at: [aadarshsingh@example.com](mailto:aadarshcngh9869.com)
 
 ---
 
