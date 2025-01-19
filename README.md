@@ -9,7 +9,7 @@
 
 ### 🏆 Achievements:
 - ✅ **Completed Striver's A2Z DSA Sheet and Playlist**.
-- 💻 **Solved 380+ questions on LeetCode** with a **contest rating of 1491**.
+- 💻 **Solved 400+ questions on LeetCode** with a **contest rating of 1491**.
 - 🌟 **Solved over 500 problems across all platforms** (LeetCode, GeeksforGeeks, Codeforces, etc.).
 - 🥉 **3-Star Coder on GeeksforGeeks**.
 
